@@ -1,3 +1,3 @@
 #notas
 
-This repository contains some customhooks to help me o anyone who can use it.
+This repository contains some customhooks to help me or anyone who can find it useful.
