@@ -2,7 +2,7 @@
 
 ```javascript
 
-const url = 'enpoint of an api'
+const url = 'endpoint of an api'
 
 const { 
     data: null,
